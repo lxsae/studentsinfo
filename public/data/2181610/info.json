@@ -1,0 +1,10 @@
+{
+    "nombre": "Esteban Andres Espinosa",
+    "edad": 20,
+    "carrera": "Tecnologia en Desarrollo de Sofrware",
+    "semestre": 7,
+    "gustos": ["Musica", "Anime", "VideoJuegos", "Viajar"],
+    "noGustos": ["Ruido", "Piña" , "Malos olores"],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocIlbtWS-pp3EgXorh2ouXI5bSKAvPMOQsXw7OPRB53hiTMTqYA5uQ=s288-c-no"
+}
+  
