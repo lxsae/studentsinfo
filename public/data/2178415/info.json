@@ -1,0 +1,10 @@
+{
+    "nombre": "Juan Manuel Garcia",
+    "edad": 30,
+    "carrera": "Tecnologia en Desarrollo de Sofrware",
+    "semestre": 7,
+    "gustos": ["Lectura", "Estudiar", "VideoJuegos", "Viajar"],
+    "noGustos": ["Ruido", "Muchedumbre"],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocKJeo53AXby-Z3oWWSq851AWI3-ptZxQiL9x5Ep9h6Y1py9Dw=s432-c-no"
+}
+  
