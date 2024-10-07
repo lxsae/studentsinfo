@@ -2,7 +2,7 @@ name: Students Info Auto
 
 on:
   push:
-    branches:
+    pull_request:
       - master
 
 jobs:
@@ -33,7 +33,7 @@ jobs:
 
       - name: Merge branch if tests pass
         run: |
-          git config user.name "jgarcia9300"
-          git config user.email "juan.m.garcia@correounivalle.edu.co"
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
           git checkout main
           git merge HEAD
