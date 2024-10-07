@@ -5,5 +5,6 @@
     "semestre": 6,
     "gustos": ["Baloncesto", "Cine", "Correr", "Cocinar"],
     "noGustos": ["Despertarse temprano", "El calor", "Ruido fuerte", "Tareas largas"],
-    "foto": "https://mail.google.com/mail/u/0/?hl=es_419#inbox"
+    "foto": "https://mail.google.com/mail/u/0/?hl=es_419#inbox",
+    "redsocial": "https://www.facebook.com/leandro.acevedo.315428"
 }

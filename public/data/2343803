@@ -1,9 +1,0 @@
-{
-    "nombre": "Venus Paipilla",
-    "edad": 20,
-    "carrera": "Tecnología en desarrollo de software",
-    "semestre": 3,
-    "gustos": ["Salsa", "Comer", "Deporte", "Viajar"],
-    "noGustos": ["Aburrimiento", "Higado"],
-}
-  
