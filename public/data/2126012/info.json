@@ -5,6 +5,10 @@
   "semestre": 6,
   "gustos": ["Lectura", "Cine", "Deporte", "Musica"],
   "noGustos": ["Alcohol", "Fumar", "Desorden"],
+<<<<<<< HEAD
   "foto": "https://lh3.googleusercontent.com/a/ACg8ocKvnN4oB5k6DcYDpTQEFQrowi3nqcw-rMqJyk_rRMM46YWG_tw=s288-c-no",
   "redsocial": "https://github.com/lxsae"
+=======
+  "foto": "https://lh3.googleusercontent.com/a/ACg8ocKvnN4oB5k6DcYDpTQEFQrowi3nqcw-rMqJyk_rRMM46YWG_tw=s288-c-no"
+>>>>>>> 20a6f0e0d4a0f61be537f37c13754404a3dd7fa8
 }
