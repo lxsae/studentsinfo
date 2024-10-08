@@ -1,12 +1,9 @@
 {
-    "nombre": "Ana Sofia Mezu Vargas",
-    "edad": 19,
-    "carrera": "Ingenieria de sistemas y computacion",
-    "semestre": 6,
-    "gustos": ["musica", "Cine", "Gym", "Estudiar"],
-    "noGustos": ["Trasnochar", "Comida sin sal", "Mucho frio", "No entender"],
-    "foto": "https://lh3.googleusercontent.com/a/ACg8ocKfm-Tk8Q8yFp8DfybaVgbodmSDfcCt9RdsqYv12ysOCMKSVQ=s360-c-no",
-    "redsocial": "https://www.facebook.com/ana.sofia.315428"
+  "nombre": "Ana Sofia Mezu Vargas",
+  "edad": 19,
+  "carrera": "Ingenieria de sistemas y computacion",
+  "semestre": 6,
+  "gustos": ["musica", "Cine", "Gym", "Estudiar"],
+  "noGustos": ["Trasnochar", "Comida sin sal", "Mucho frio", "No entender"],
+  "foto": "https://lh3.googleusercontent.com/a/ACg8ocKfm-Tk8Q8yFp8DfybaVgbodmSDfcCt9RdsqYv12ysOCMKSVQ=s360-c-no"
 }
-
-  
